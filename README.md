@@ -1,3 +1,3 @@
 # cuddly-pancakes
 IronHack Courses 
-# j'ai hâte d'en savoir plus 
+# Project 1 Week 1 BlackJackGame  
